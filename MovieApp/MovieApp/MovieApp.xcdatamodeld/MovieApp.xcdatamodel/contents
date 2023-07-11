@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="19H2026" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="MoviesDatabase" representedClassName="MoviesDatabase" syncable="YES">
+        <attribute name="cast" optional="YES" attributeType="String"/>
+        <attribute name="imdbid" optional="YES" attributeType="String"/>
+        <attribute name="movieposter" optional="YES" attributeType="Binary"/>
+        <attribute name="runtime" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="year" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="MoviesDatabase2" representedClassName="MoviesDatabase2" syncable="YES">
+        <attribute name="cast" optional="YES" attributeType="String"/>
+        <attribute name="imdbid" optional="YES" attributeType="String"/>
+        <attribute name="movieposter" optional="YES" attributeType="Binary"/>
+        <attribute name="runtime" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="year" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="MoviesDatabase" positionX="-63" positionY="-18" width="128" height="133"/>
+        <element name="MoviesDatabase2" positionX="-54" positionY="36" width="128" height="133"/>
+    </elements>
+</model>
